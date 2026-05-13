@@ -4,7 +4,7 @@ Time-saving content filter lists for hiding specific contents of web-pages (with
 
 ## How to use in Brave or Vivaldi browser
 
-Go to "Shields & privacy > Content filters" (Brave) or "Tracker and Ad Blocking > Manage Ad Blocking Sources" (Vivaldi) in the browser settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt`) into the "Add" URL text field, then click "Add/Import".
+Go to "Shields & privacy > Content filters" (Brave) or "Tracker and Ad Blocking > Manage Ad Blocking Sources" (Vivaldi) in the browser settings, and copy-paste the URL of the raw content of a list file from this repo (e.g. `https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt`) into the "Add" URL text field, then click "Add/Import".
 
 For use in the uBlock Origin or Adblock browser extensions for Firefox or Chrome/Chromium-based browsers, consult the relevant online documentation.
 
@@ -12,9 +12,11 @@ For use in the uBlock Origin or Adblock browser extensions for Firefox or Chrome
 
 ### Instagram Anti-Doom Scrolling
 
-**Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDoomScrolling.txt
 
 This list filters out all Instagram web app content that leads to endless doom scrolling, such as the Feed, Search and Reels, helping you stay connected while avoiding the time-wasting scrolling.
+
+If you want finer control, the Home, Explore, and Reels mobile tab hides are also available as separate lists below. This list still bundles all three by default.
 
 For best Instagram app experience on Android and Desktop:
 1. In the Brave or Vivaldi browser, add the URL for this list as a "custom filter list" (see 'how-to' above)
@@ -27,8 +29,26 @@ You'll now have a nicely-functioning version of the Instagram app that lets you 
 
 ### Instagram Anti-Distractions
 
-**Raw file URL:** https://raw.githubusercontent.com/liamperritt/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDistractions.txt
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/InstagramAntiDistractions.txt
 
 This list filters out Instagram web app content that most users find distracting, such as Notes, notification markers, pop-ups, clutter, etc.
 
 Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the most time-saving version of the Instagram web app. See the previous section's instructions on how to set up an Instagram PWA (Progressive Web App) for the best experience on Android and Desktop.
+
+### Hide Instagram Home Tab
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramHomeTab.txt
+
+This mobile-focused list hides only the Home tab in Instagram's mobile web app tab bar.
+
+### Hide Instagram Explore Tab
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramExploreTab.txt
+
+This mobile-focused list hides only the Explore tab in Instagram's mobile web app tab bar.
+
+### Hide Instagram Reels Tab
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramReelsTab.txt
+
+This mobile-focused list hides only the Reels tab in Instagram's mobile web app tab bar.
