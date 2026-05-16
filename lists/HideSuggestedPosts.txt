@@ -1,0 +1,7 @@
+! Title: Hide Suggested Posts
+! Description: This list hides Instagram feed or reel articles that include the in-card Follow button, which commonly marks suggested posts from accounts you do not follow.
+! Homepage: https://github.com/Lightlce/timesaving-adblock-filters/blob/main/README.md#hide-suggested-posts
+! Version: 2026.5.16
+
+! Suggested post cards with nested Follow button
+www.instagram.com##article:has(div[role="button"].xjyslct.x1obq294.x5a5i1n.xde0f50.x15x8krk.x1f6kntn.xwhw2v2.x10w6t97.x17ydfre.xf7dkkf.xv54qhq.xlyipyv.x87ps6o.x14atkfc.x5c86q.x18br7mf.x1i0vuye.x1aavi5t.x1h6iz8e.xixcex4.xk4oym4.xl3ioum)

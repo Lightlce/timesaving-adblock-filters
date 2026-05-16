@@ -35,6 +35,12 @@ This list filters out Instagram web app content that most users find distracting
 
 Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the most time-saving version of the Instagram web app. See the previous section's instructions on how to set up an Instagram PWA (Progressive Web App) for the best experience on Android and Desktop.
 
+### Hide Suggested Posts
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideSuggestedPosts.txt
+
+This list hides Instagram article cards that contain the in-card `Follow` button pattern commonly used for suggested posts from accounts you do not follow.
+
 ### Hide Instagram Home Tab
 
 **Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramHomeTab.txt
