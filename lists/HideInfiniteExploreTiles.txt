@@ -1,0 +1,7 @@
+! Title: Hide Infinite Explore Tiles
+! Description: This list hides all but the first two matching Instagram Explore grid tiles in the repeated reel-style tile row.
+! Homepage: https://github.com/Lightlce/timesaving-adblock-filters/blob/main/README.md#hide-infinite-explore-tiles
+! Version: 2026.5.16
+
+! Explore tile row
+www.instagram.com##.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xjbqb8w.x1lliihq.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.x1oa3qoh > .x1qjc9v5.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1lliihq.xdt5ytf.x2lah0s.xj87blo.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x11njtxf.xdj266r.x1mpyi22.x1ty9z65.x1lziwak.x1rrja1l:nth-of-type(n+3)

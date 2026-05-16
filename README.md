@@ -41,6 +41,12 @@ Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the mos
 
 This list hides Instagram article cards that contain the in-card `Follow` button pattern commonly used for suggested posts from accounts you do not follow.
 
+### Hide Infinite Explore Tiles
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInfiniteExploreTiles.txt
+
+This list hides the 3rd and later matching tiles in a repeated Instagram Explore reel-tile row, leaving only the first two visible.
+
 ### Hide Instagram Home Tab
 
 **Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramHomeTab.txt
