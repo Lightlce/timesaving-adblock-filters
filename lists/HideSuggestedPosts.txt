@@ -1,7 +1,7 @@
 ! Title: Hide Suggested Posts
-! Description: This list hides Instagram feed or reel articles that include the in-card Follow button, which commonly marks suggested posts from accounts you do not follow.
+! Description: This list hides Instagram feed or reel articles that are marked as suggested posts and include the in-card Follow button.
 ! Homepage: https://github.com/Lightlce/timesaving-adblock-filters/blob/main/README.md#hide-suggested-posts
-! Version: 2026.5.18
+! Version: 2026.5.21
 
-! Suggested post cards with nested Follow button
-www.instagram.com##article:has(div[role="button"].xjyslct.x1obq294.x5a5i1n.xde0f50.x15x8krk.x1f6kntn.xwhw2v2.x10w6t97.x17ydfre.xf7dkkf.xv54qhq.xlyipyv.x87ps6o.x14atkfc.x5c86q.x18br7mf.x1i0vuye.x1aavi5t.x1h6iz8e.xixcex4.xk4oym4.xl3ioum)
+! Suggested post cards with marker plus nested Follow button
+www.instagram.com##article:has(.x193iq5w.x12dikjd):has(div[role="button"].xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1a2a7pz.x6s0dn4.xjyslct.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x9f619.x1ypdohk.x1f6kntn.xl56j7k.x17ydfre.x2b8uid.xlyipyv.x87ps6o.x14atkfc.x5c86q.x18br7mf.x1i0vuye)

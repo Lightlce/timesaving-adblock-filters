@@ -39,7 +39,7 @@ Use in conjuction with the Instagram Anti-Doom Scrolling filter list for the mos
 
 **Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideSuggestedPosts.txt
 
-This list hides Instagram article cards that contain the in-card `Follow` button pattern commonly used for suggested posts from accounts you do not follow.
+This list hides Instagram article cards that are marked as suggested posts and include the in-card `Follow` button pattern.
 
 ### Hide Infinite Explore Tiles
 
