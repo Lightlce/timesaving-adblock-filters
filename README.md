@@ -47,6 +47,12 @@ This list hides Instagram article cards that contain the in-card `Follow` button
 
 This list hides the 3rd and later matching tiles in a repeated Instagram Explore reel-tile row, leaving only the first two visible.
 
+### Hide More Posts Like This
+
+**Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideMorePostsLikeThis.txt
+
+This list hides content blocks that appear after Instagram's "More posts like this" marker row.
+
 ### Hide Instagram Home Tab
 
 **Raw file URL:** https://raw.githubusercontent.com/Lightlce/timesaving-adblock-filters/refs/heads/main/lists/HideInstagramHomeTab.txt
